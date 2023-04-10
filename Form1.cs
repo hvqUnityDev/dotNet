@@ -2,6 +2,27 @@
 using System.Data;
 using System.Data.SqlClient;
 
+namespace WinformForIT9
+{
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+        }
+    }
+}
+
+/*
+ using System;
+using System.Data;
+using System.Data.SqlClient;
+
 namespace KetNoi_Hoc
 {
     public partial class Form1 : Form
@@ -163,3 +184,4 @@ namespace KetNoi_Hoc
         }
     }
 }
+ */

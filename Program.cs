@@ -1,4 +1,4 @@
-namespace KetNoi_Hoc
+namespace WinformForIT9
 {
     internal static class Program
     {
